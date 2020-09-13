@@ -4,7 +4,7 @@
 This is my portfolio web page.
 
 ## SetUp and installations
-You don't need particular installations just a good working internet connection.
+You don't need any particular installations just a good working internet connection.
 
 ## Behaviour Driven Development(BDD)
 A Home page,that has a few description about me.
